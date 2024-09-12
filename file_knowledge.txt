@@ -1,0 +1,26 @@
+A file is sort of like a new paper!
+It stores data which coders can put in.
+This data includes strings, integers, floats, bolean logic, lists, dictionaries and more!
+You can access these files or even create them using with open!
+
+However... write is a function where you can change/append a file.
+This can be dangerous due to the fact that you can hack somebodys code easily and access important information, which may include BANK DETAILS!
+I CAN HACK AND CHANGE STUFF NOW MWAHAHAHAHAHAAAAA file is sort of like a new paper!
+It stores data which coders can put in.
+This data includes strings, integers, floats, bolean logic, lists, dictionaries and more!
+You can access these files or even create them using with open!
+
+However... write is a function where you can change/append a file.
+This can be dangerous due to the fact that you can hack and change somebodys code easily and access important information, which may include BANK DETAILS!
+I CAN HACK AND CHANGE STUFF NOW MWAHAHAHAHAHAAAAA file is sort of like a new paper!
+It stores data which coders can put in.
+This data includes strings, integers, floats, bolean logic, lists, dictionaries and more!
+You can access these files or even create them using with open!
+
+However... write is a function where you can change/append a file.
+This can be dangerous due to the fact that you can hack and change somebodys code easily and access important information, which may include BANK DETAILS!
+I CAN HACK AND CHANGE STUFF NOW MWAHAHAHAHAHAAAAA file is sort of like a new paper!
+It stores data which coders can put in.
+This data includes strings, integers, floats, bolean logic, lists, dictionaries and more!
+You can access these files or even create them using with open!
+
